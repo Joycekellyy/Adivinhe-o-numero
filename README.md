@@ -1,3 +1,3 @@
 # Adivinhe o número...
-  Eu não sei oq eu tô fazendo kkkk
+  Tente adivinhar o número. E fracasse miserávelmente.
 
