@@ -1,3 +1,3 @@
 # Adivinhe o número...
-  Tente adivinhar o número. E fracasse miserávelmente.
+  Tente adivinhar o número. E fracasse miseravelmente.
 
